@@ -35,9 +35,7 @@ switch(number)
         console.log("1도 2도 아닙니다");
 }
 
-// for (초기값; 조건식; 증가식) {
-
-// } */
+// for (초기값; 조건식; 증가식)
 
 for (let i = 0; i < 3; i++) {
     console.log("반복");
