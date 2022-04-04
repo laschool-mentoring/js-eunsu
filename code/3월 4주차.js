@@ -31,6 +31,7 @@ for(let i=0; i<10; i++) {
 
 // 이번 시간에 배운 것
 
+
 for(let i=1; i<=9; i++){
     if (i==3){
         continue;
